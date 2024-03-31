@@ -58,3 +58,6 @@ function groupByAirport(data) {
 export {
     groupByAirline, groupByAirport
 }
+export {
+    groupByAirline, groupByAirport
+}
